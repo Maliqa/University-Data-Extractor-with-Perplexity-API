@@ -33,4 +33,4 @@ dan gunakan aplikasinya.
 ---
 
 ### Credit
-Dikembangkan oleh [Nama Kamu]
+Dikembangkan oleh [Malika]
